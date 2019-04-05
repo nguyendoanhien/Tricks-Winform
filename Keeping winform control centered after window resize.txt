@@ -1,0 +1,2 @@
+Center your control in the designer and set its Anchor property to None.
+
