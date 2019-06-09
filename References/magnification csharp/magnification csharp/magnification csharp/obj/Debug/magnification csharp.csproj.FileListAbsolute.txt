@@ -1,0 +1,25 @@
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\obj\Debug\magnification csharp.csprojAssemblyReference.cache
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\obj\Debug\magnification_csharp.Form1.resources
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\obj\Debug\magnification_csharp.Properties.Resources.resources
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\obj\Debug\magnification csharp.csproj.GenerateResource.cache
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\obj\Debug\magnification csharp.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\bin\Debug\magnification csharp.exe.config
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\bin\Debug\magnification csharp.exe
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\bin\Debug\magnification csharp.pdb
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\bin\Debug\Karna.Magnification.dll
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\bin\Debug\Karna.Magnification.pdb
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\obj\Debug\magnification csharp.csproj.CopyComplete
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\obj\Debug\magnification csharp.exe
+C:\Users\nguyenthao\Desktop\magnification csharp\magnification csharp\obj\Debug\magnification csharp.pdb
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\bin\Debug\magnification csharp.exe.config
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\bin\Debug\magnification csharp.exe
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\bin\Debug\magnification csharp.pdb
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\bin\Debug\Karna.Magnification.pdb
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\obj\Debug\magnification csharp.csprojAssemblyReference.cache
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\obj\Debug\magnification_csharp.Form1.resources
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\obj\Debug\magnification_csharp.Properties.Resources.resources
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\obj\Debug\magnification csharp.csproj.GenerateResource.cache
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\obj\Debug\magnification csharp.csproj.CoreCompileInputs.cache
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\obj\Debug\magnification csharp.csproj.CopyComplete
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\obj\Debug\magnification csharp.exe
+D:\Hien\Study\Winform\References\magnification csharp\magnification csharp\magnification csharp\obj\Debug\magnification csharp.pdb

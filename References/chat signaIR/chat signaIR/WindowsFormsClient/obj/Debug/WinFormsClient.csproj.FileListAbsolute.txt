@@ -1,0 +1,30 @@
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\bin\Debug\WinFormsClient.exe
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\bin\Debug\WinFormsClient.pdb
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csprojAssemblyReference.cache
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\obj\Debug\WinFormsClient.WinFormsClient.resources
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.cache
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.CopyComplete
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\nguyenthao\Desktop\C#\WindowsFormsClient\obj\Debug\WinFormsClient.pdb
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\bin\Debug\WinFormsClient.exe.config
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\bin\Debug\WinFormsClient.exe
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\bin\Debug\WinFormsClient.pdb
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\bin\Debug\Newtonsoft.Json.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\bin\Debug\Newtonsoft.Json.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\obj\Debug\WinFormsClient.csprojAssemblyReference.cache
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\obj\Debug\WinFormsClient.WinFormsClient.resources
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.cache
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.CoreCompileInputs.cache
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.CopyComplete
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\obj\Debug\WinFormsClient.exe
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WindowsFormsClient\obj\Debug\WinFormsClient.pdb

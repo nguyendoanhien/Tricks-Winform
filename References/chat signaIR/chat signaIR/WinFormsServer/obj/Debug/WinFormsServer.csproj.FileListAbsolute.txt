@@ -1,0 +1,58 @@
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\SignalRChat.exe.config
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\SignalRChat.exe
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\SignalRChat.pdb
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Owin.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\System.Web.Cors.dll
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.xml
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\obj\Debug\WinFormsServer.csprojAssemblyReference.cache
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\obj\Debug\SignalRChat.Properties.Resources.resources
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\obj\Debug\SignalRChat.WinFormsServer.resources
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\obj\Debug\WinFormsServer.csproj.GenerateResource.cache
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\obj\Debug\WinFormsServer.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\obj\Debug\WinFormsServer.csproj.CopyComplete
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\obj\Debug\SignalRChat.exe
+C:\Users\nguyenthao\Desktop\C#\WinFormsServer\obj\Debug\SignalRChat.pdb
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\SignalRChat.exe.config
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\SignalRChat.exe
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\SignalRChat.pdb
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Cors.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Diagnostics.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Security.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Newtonsoft.Json.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Owin.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\System.Web.Cors.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Cors.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Diagnostics.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Microsoft.Owin.Security.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\bin\Debug\Newtonsoft.Json.xml
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\obj\Debug\WinFormsServer.csprojAssemblyReference.cache
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\obj\Debug\SignalRChat.Properties.Resources.resources
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\obj\Debug\SignalRChat.WinFormsServer.resources
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\obj\Debug\WinFormsServer.csproj.GenerateResource.cache
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\obj\Debug\WinFormsServer.csproj.CoreCompileInputs.cache
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\obj\Debug\WinFormsServer.csproj.CopyComplete
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\obj\Debug\SignalRChat.exe
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WinFormsServer\obj\Debug\SignalRChat.pdb

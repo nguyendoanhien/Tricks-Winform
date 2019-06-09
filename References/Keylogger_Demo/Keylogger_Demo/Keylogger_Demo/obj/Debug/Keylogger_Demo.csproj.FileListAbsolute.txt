@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\Keylogger_Demo\Keylogger_Demo\bin\Debug\Keylogger_Demo.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Keylogger_Demo\Keylogger_Demo\bin\Debug\Keylogger_Demo.exe
+c:\users\admin\documents\visual studio 2012\Projects\Keylogger_Demo\Keylogger_Demo\bin\Debug\Keylogger_Demo.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Keylogger_Demo\Keylogger_Demo\obj\Debug\Keylogger_Demo.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Keylogger_Demo\Keylogger_Demo\obj\Debug\Keylogger_Demo.exe
+c:\users\admin\documents\visual studio 2012\Projects\Keylogger_Demo\Keylogger_Demo\obj\Debug\Keylogger_Demo.pdb

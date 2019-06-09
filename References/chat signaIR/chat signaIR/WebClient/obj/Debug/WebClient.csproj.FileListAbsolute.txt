@@ -1,0 +1,7 @@
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WebClient\bin\WebClient.dll.config
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WebClient\bin\WebClient.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WebClient\bin\WebClient.pdb
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WebClient\obj\Debug\WebClient.csprojAssemblyReference.cache
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WebClient\obj\Debug\WebClient.dll
+D:\Hien\Study\Winform\References\chat signaIR\chat signaIR\WebClient\obj\Debug\WebClient.pdb

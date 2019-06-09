@@ -1,0 +1,9 @@
+C:\Users\nguyenthao\Downloads\AutoCompleteTextBoxSample\AutoCompleteTextBoxSample\bin\Debug\AutoCompleteTextBoxSample.exe
+C:\Users\nguyenthao\Downloads\AutoCompleteTextBoxSample\AutoCompleteTextBoxSample\bin\Debug\AutoCompleteTextBoxSample.pdb
+C:\Users\nguyenthao\Downloads\AutoCompleteTextBoxSample\AutoCompleteTextBoxSample\obj\x86\Debug\AutoCompleteTextBoxSample.csprojAssemblyReference.cache
+C:\Users\nguyenthao\Downloads\AutoCompleteTextBoxSample\AutoCompleteTextBoxSample\obj\x86\Debug\AutoCompleteTextBoxSample.Form1.resources
+C:\Users\nguyenthao\Downloads\AutoCompleteTextBoxSample\AutoCompleteTextBoxSample\obj\x86\Debug\AutoCompleteTextBoxSample.Properties.Resources.resources
+C:\Users\nguyenthao\Downloads\AutoCompleteTextBoxSample\AutoCompleteTextBoxSample\obj\x86\Debug\AutoCompleteTextBoxSample.csproj.GenerateResource.cache
+C:\Users\nguyenthao\Downloads\AutoCompleteTextBoxSample\AutoCompleteTextBoxSample\obj\x86\Debug\AutoCompleteTextBoxSample.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthao\Downloads\AutoCompleteTextBoxSample\AutoCompleteTextBoxSample\obj\x86\Debug\AutoCompleteTextBoxSample.exe
+C:\Users\nguyenthao\Downloads\AutoCompleteTextBoxSample\AutoCompleteTextBoxSample\obj\x86\Debug\AutoCompleteTextBoxSample.pdb
